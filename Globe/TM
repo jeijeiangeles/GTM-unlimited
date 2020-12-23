@@ -1,9 +1,9 @@
 {
-    "ConfigVersion": 1.5,
-    "ConfigUpdateMsg": "New VUI GTM",
-    "SshPort": "442",
+    "ConfigVersion": 3.6,
+    "ConfigUpdateMsg": "New VUI premium Servers Added",
+    "SshPort": "22",
     "SshStunnelPort": "443",
-    "SquidPort": "8080",
+    "SquidPort": "80",
 	"Spoofs": [  
      {
 			"Name": "GTM 1 - INJECT",
@@ -12,7 +12,7 @@
 			"UseCustom": false,
 			"CustomProxy": "",
 			"Sni": "",
-			"Payload": "qefxXpXVZezDkph9nzA9nbkBWpCU/f/tpDKCscEH5VYjg0CaZbvXE5/DO5SAEbUeV2Erg3MszdaQi8C70wnirknWtZwU8GHnDE4HWr+SbTT4d4ABdtF08pUjZV1SVkgv7kxz4281ZNcFW9/oFb++qlCOEkQZxjm0XZArZVusc5NayOU8BRStFGFOTXWDxqvvY3YJ7meWuac6VRFjkY6TcwO1QtxUuEps+JT2bgpNKes="
+			"Payload": "GXZlwJ2zjuwx4tjAKY876227BC6ho31ZCFWpp1lWBSgfVFm4gUa5rjIgU4EBWO73MN6ZHVho34TL3yPi8a7NN3kDl7ZMPB6/E4TM0FP5Pg+J7JHfyc4Pf4NAE4IG5yXblrbiwdK08CEvCTYL8kJtF/3uKeeG24MRxUpI+gwnNqsGgduN0ioEOgoQZYGSKl/XjDNR30Akt6QJ5Q04TmZnPVWtKjmG91wJAKL1d/DpeGdNQzv25BJPnIOveoIdjd4+RyCAmqeI98Q4OCDX16eGgtoATBFZMb8fmMvhMob/sSk5rfg0j81Z679DY5YG94zQ"
 		}, 
 	  {
 			"Name": "GTM 2 - INJECT",
@@ -21,7 +21,7 @@
 			"UseCustom": false,
 			"CustomProxy": "",
 			"Sni": "",
-			"Payload": "qefxXpXVZezDkph9nzA9nbkBWpCU/f/tpDKCscEH5VYjg0CaZbvXE5/DO5SAEbUeV2Erg3MszdaQi8C70wnirknWtZwU8GHnDE4HWr+SbTT4d4ABdtF08pUjZV1SVkgv7kxz4281ZNcFW9/oFb++qlCOEkQZxjm0XZArZVusc5NayOU8BRStFGFOTXWDxqvvY3YJ7meWuac6VRFjkY6TcwO1QtxUuEps+JT2bgpNKes="
+			"Payload": "GXZlwJ2zjuwx4tjAKY876227BC6ho31ZCFWpp1lWBSgfVFm4gUa5rjIgU4EBWO73MN6ZHVho34TL3yPi8a7NN3kDl7ZMPB6/E4TM0FP5Pg8vLIxE4qYSQVfnm+alcP4CKlBH19USirsWRqkb2xWXo4NA/3RNT6wVtpotNR1G+449F2DfiZyZM9exw1TrCIYafEzAtwtXLvJOzw6EKExHtWkFlYf2jbltLZMPWQ0m6WLw+lBMF57Auw6V6Xy0zQL9cFRlv/IIp0N2+q3G90ksweDvRPm8BMnmsgdcrnXv4kWB+w32H24AANzjQpzTxVECkgTroCMEShqJukw6TZ8e/w=="
 		}, 
 	   {
 			"Name": "GTM 3 - INJECT",
@@ -30,7 +30,7 @@
 			"UseCustom": false,
 			"CustomProxy": "",
 			"Sni": "",
-			"Payload": "qefxXpXVZezDkph9nzA9nbkBWpCU/f/tpDKCscEH5VYjg0CaZbvXE5/DO5SAEbUeV2Erg3MszdaQi8C70wnirknWtZwU8GHnDE4HWr+SbTT4d4ABdtF08pUjZV1SVkgv7kxz4281ZNcFW9/oFb++qlCOEkQZxjm0XZArZVusc5NayOU8BRStFGFOTXWDxqvvY3YJ7meWuac6VRFjkY6TcwO1QtxUuEps+JT2bgpNKes="
+			"Payload": "GXZlwJ2zjuwx4tjAKY876227BC6ho31ZCFWpp1lWBSgfVFm4gUa5rjIgU4EBWO73MN6ZHVho34TL3yPi8a7NN3kDl7ZMPB6/E4TM0FP5Pg8Xe9IAVg+aVZk9oEyknMnqUuJzYoa7VmMJfwlvWHxdejJ5ykRRTC/xCwrXzrFa6apKuK2R/eFxdpB90n1k0Aqmmt3NljzBj+a/VDzC/VQ9ALXbZsG7AhtebJBH3Yo5rvAjqyvCCYCIG4PWAjqnSMSVt8xhSyQBv8krqm5k+ZjP1OOzfsDxqzfFvPq1/lV3lch+Si7GH74neytXi93wz+iu"
 		}, 
 		{
 			"Name": "GTM 4 - INJECT",
@@ -58,7 +58,7 @@
 			"UseCustom": false,
 			"CustomProxy": "",
 			"Sni": "",
-			"Payload": "qefxXpXVZezDkph9nzA9nbkBWpCU/f/tpDKCscEH5VYjg0CaZbvXE5/DO5SAEbUeV2Erg3MszdaQi8C70wnirknWtZwU8GHnDE4HWr+SbTT4d4ABdtF08pUjZV1SVkgv7kxz4281ZNcFW9/oFb++qlCOEkQZxjm0XZArZVusc5NayOU8BRStFGFOTXWDxqvvY3YJ7meWuac6VRFjkY6TcwO1QtxUuEps+JT2bgpNKes="
+			"Payload": "jG56WKL2rzuAasPSbpueaE3aeBoe3icXeZ7wY74Kga4e4+bUWn8y8z4T+hrQ2Zh0C0i1tqhvL6yxUGs1WtRiNg=="
 		}, 
 		{
 			"Name": "GTM 7- INJECT",
@@ -67,46 +67,191 @@
 			"UseCustom": false,
 			"CustomProxy": "",
 			"Sni": "",
-			"Payload": "qefxXpXVZezDkph9nzA9nbkBWpCU/f/tpDKCscEH5VYjg0CaZbvXE5/DO5SAEbUeV2Erg3MszdaQi8C70wnirknWtZwU8GHnDE4HWr+SbTT4d4ABdtF08pUjZV1SVkgv7kxz4281ZNcFW9/oFb++qlCOEkQZxjm0XZArZVusc5NayOU8BRStFGFOTXWDxqvvY3YJ7meWuac6VRFjkY6TcwO1QtxUuEps+JT2bgpNKes="
+			"Payload": "DE4km9UX4ilfL25LQoTKEFz7clavz9EMOl5M+LYpkEMnmYZ2y6cmpFxQTPDs7CZ+ZcNJYhzvhhy50C6EcbJjchj3AZQkXpL9iZ8UKrftwNsOr2tenw/zK2SjSZFGGIi7"
 		
 		}
 		
 	],
 	"Servers": [ 
 	{
-			"SubInfo": "Auto Select Servers",
-			"Server": "gtm1.gtm-unlimited.ml",
-			"Location": "Auto"
+			"SubInfo": "Premium 01",
+			"Server": "prem1.vuiphilippine.com",
+			"Location": "SG"
 		},
 	
       {
-			"SubInfo": "Server 1",
-			"Server": "gtm1.gtm-unlimited.ml",
+			"SubInfo": "Premium 02",
+			"Server": "prem2.vuiphilippine.com",
 			"Location": "SG"
 		},
  
       {
-			"SubInfo": "Server 2",
-			"Server": "gtm2.gtm-unlimited.ml",
+			"SubInfo": "Premium 03",
+			"Server": "prem3.vuiphilipine.com",
 			"Location": "SG"
 		},
  
       {
-			"SubInfo": "Server 3",
-			"Server": "gtm3.gtm-unlimited.ml",
+			"SubInfo": "Premium 04",
+			"Server": "prem4.vuiphilippine.com",
 			"Location": "SG"
 		},
  
       {
-			"SubInfo": "Server 4",
-			"Server": "gtm4.gtm-unlimited.ml",
+                        "SubInfo": "Premium 05",
+			"Server": "prem5.vuiphilippine.com",
+			"Location": "SG"
+		},
+	
+      {
+			"SubInfo": "Premium 06",
+			"Server": "prem6.vuiphilippine.com",
 			"Location": "SG"
 		},
  
       {
-			"SubInfo": "Server 5",
-			"Server": "gtm5.gtm-unlimited.ml",
+			"SubInfo": "Premium 07",
+			"Server": "prem7.vuiphilippine.com",
 			"Location": "SG"
+		},
+ 
+      {
+			"SubInfo": "Premium 08",
+			"Server": "prem8.vuiphilippine.com",
+			"Location": "SG"
+		},
+ 
+      {
+                        "SubInfo": "Premium 09",
+			"Server": "prem9.vuiphilippine.com",
+			"Location": "SG"
+		},
+	
+      {
+			"SubInfo": "Premium 10",
+			"Server": "prem10.vuiphilippine.com",
+			"Location": "SG"
+		},
+ 
+      {
+			"SubInfo": "Premium 11",
+			"Server": "prem11.vuiphilippine.com",
+			"Location": "SG"
+		},
+ 
+      {
+			"SubInfo": "Premium 12",
+			"Server": "prem12.vuiphilippine.com",
+			"Location": "SG"
+		},
+ 
+      {
+			"SubInfo": "Premium 13",
+			"Server": "prem13.vuiphilippine.com",
+			"Location": "SG"
+		},
+ 
+      {
+                        "SubInfo": "Premium 14",
+			"Server": "prem14.vuiphilipine.com",
+			"Location": "SG"
+		},
+	
+      {
+			"SubInfo": "Premium 15",
+			"Server": "prem15.vuiphilippine.com",
+			"Location": "SG"
+		},
+ 
+      {
+			"SubInfo": "Premium 16",
+			"Server": "prem16.vuiphilippine.com",
+			"Location": "SG"
+		},
+ 
+      {
+			"SubInfo": "Premium 17",
+			"Server": "prem17.vuiphilipine.com",
+			"Location": "SG"
+		},
+ 
+      {
+                        "SubInfo": "Premium 18",
+			"Server": "prem18.vuiphilippine.com",
+			"Location": "SG"
+		},
+	
+      {
+			"SubInfo": "Premium 19",
+			"Server": "prem19.vuiphilippine.com",
+			"Location": "SG"
+		},
+	
+      {
+			"SubInfo": "Premium 20",
+			"Server": "prem20.vuiphilippine.com",
+			"Location": "SG"
+		},
+ 
+      {
+                        "SubInfo": "VIP 01",
+			"Server": "vip1.vuiphilippine.com",
+			"Location": "SG"
+		},
+	
+      {
+			"SubInfo": "VIP 02",
+			"Server": "vip2.vuiphilippine.com",
+			"Location": "SG"
+		},
+ 
+      {
+			"SubInfo": "VIP 03",
+			"Server": "vip3.vuiphilippine.com",
+			"Location": "SG"
+		},
+ 
+      {
+			"SubInfo": "VIP 04",
+			"Server": "vip4.vuiphilippine.com",
+			"Location": "SG"
+		},
+ 
+      {
+                        "SubInfo": "VIP 05",
+			"Server": "vip5.vuiphilippine.com",
+			"Location": "SG"
+		},
+	
+      {
+			"SubInfo": "VIP 06",
+			"Server": "vip6.vuiphilippine.com",
+			"Location": "SG"
+		},
+ 
+      {
+			"SubInfo": "VIP 07",
+			"Server": "vip7.vuiphilippine.com",
+			"Location": "SG"
+		},
+ 
+      {
+			"SubInfo": "VIP 08",
+			"Server": "vip8.vuiphilippine.com",
+			"Location": "SG"
+		},
+ 
+      {
+                        "SubInfo": "VIP 09",
+			"Server": "vip9.vuiphilippine.com",
+			"Location": "SG"
+		},
+	
+      {
+			"SubInfo": "VIP 10",
+			"Server": "vip10.vuiphilippine.com",
+			"Location": "SG"
+		
 		}
 	]
 }
