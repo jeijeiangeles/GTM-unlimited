@@ -1,6 +1,6 @@
 {
     "ConfigVersion": 3.6,
-    "ConfigUpdateMsg": "New VUI premium Servers Added",
+    "ConfigUpdateMsg": "New premium Servers Added",
     "SshPort": "22",
     "SshStunnelPort": "443",
     "SquidPort": "80",
